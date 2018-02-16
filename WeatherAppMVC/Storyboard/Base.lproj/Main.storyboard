@@ -177,6 +177,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="weather_placeholder" width="852" height="480"/>
+        <image name="weather_placeholder" width="250" height="250"/>
     </resources>
 </document>
